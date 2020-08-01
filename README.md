@@ -10,23 +10,23 @@
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/awesomewm.svg" />
     -->
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linux.svg" />
-    <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/apple.svg" />
+    <!--img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/apple.svg" /-->
   </span>
   
   <!-- daily bread -->
   <span>
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/atom.svg" />
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/react.svg" />
-    <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/reactrouter.svg" />
+    <!--img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/reactrouter.svg" /-->
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/sass.svg" />
-    <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg" />
+    <!--img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg" /-->
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/markdown.svg" />
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/typescript.svg" />
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/json.svg" />
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/yarn.svg" />
-    <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/npm.svg" />
-  <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/postman.svg" />
+    <!--img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/npm.svg" /-->
+    <!--img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/postman.svg" /-->
   </span>
 
   <!-- want to learn -->
@@ -51,7 +51,7 @@
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/webpack.svg" />
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/firebase.svg" />
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/babel.svg" />
-    <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/lua.svg" />
+    <!--img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/lua.svg" /-->
   </span>
   
   <!-- social
@@ -76,7 +76,7 @@
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/duckduckgo.svg" />
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/opensourceinitiative.svg" />
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/tor.svg" />
-  <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/ycombinator.svg" />
+    <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/ycombinator.svg" />
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/protonmail.svg" />
   </span>
 </div>
