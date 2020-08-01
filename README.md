@@ -33,10 +33,10 @@
   <span>
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/deno.svg" />
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/ruby.svg" />
-    <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/arduino.svg" />
-    <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/electron.svg" />
+    <!--img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/arduino.svg" /-->
+    <!--img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/electron.svg" /-->
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/python.svg" />
-    <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/bitcoin.svg" />
+    <!--img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/bitcoin.svg" /-->
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/tensorflow.svg" />
   </span>
   
@@ -54,7 +54,7 @@
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/lua.svg" />
   </span>
   
-  <!-- social -->
+  <!-- social
   <span>
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/diaspora.svg" />
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/twitter.svg" />
@@ -62,6 +62,7 @@
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/freecodecamp.svg" />
     <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/dev-dot-to.svg" />
   </span>
+  -->
 
   <!-- clouds -->
   <span>
