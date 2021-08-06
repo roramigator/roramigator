@@ -55,3 +55,6 @@
   <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/ycombinator.svg" />
   <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/protonmail.svg" />
 </div>
+
+# REFERRAL
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=3f630e6ad7c2&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
