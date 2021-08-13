@@ -57,4 +57,7 @@
 </div>
 
 # REFERRAL
+
+Get started on DigitalOcean with a $100, 60-day credit for new users.
+
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=3f630e6ad7c2&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
