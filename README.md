@@ -11,6 +11,7 @@
   <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/react.svg" />
   <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/reactrouter.svg" />
   <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/sass.svg" />
+  <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/svelte.svg" />
   <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg" />
   <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />
   <img width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/markdown.svg" />
