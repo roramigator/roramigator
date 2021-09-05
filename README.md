@@ -1,4 +1,4 @@
-# I am
+# README
 
 [![tinysorcerer](https://img.shields.io/static/v1?label=&labelColor=lavender&message=tinysorcerer&color=whitesmoke&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABVUlEQVR4nOyaIWoDQRhGd0tdD1AqKlqqKxZqKuorCrU1NRU9RqG3qKiJCdER0TExgRXRIRERIQeITm7wf4Gf4UHme3aY8HgMzL+7uWwETzcfh2i9u/tUP5Hi+vYqXP8dvbSZ37/IbD4HHIAWoHEAWoDGAWgBmrb0PT9efaX2v93/h+vZOaH6E+AAtACNA9ACNA5AC9DIZ+nv50k4J6h7vl8sw/Xu8SG1/+d9Gq7/zV49B0Q4AC1A4wC0AI0D0AI08rtAFnXPZ/er9wWK6k+AA9ACNA5AC9A4AC1AI+eAfj0I17P3sHqvv9vsw3Xlp6j+BDgALUDjALQAjQPQAjRyDphvh+rbAfo/whP8Qqo/AQ5AC9A4AC1A4wC0AE3x7wLqeb1r4jkh+7yvqP4EOAAtQOMAtACNA9ACNMXnAEXpe15R/QlwAFqAxgFoARoHoAVojgEAAP//tvcxKspTPcEAAAAASUVORK5CYII=)](https://github.land)
 
@@ -6,12 +6,9 @@
 const roberto = {
   tag: "roramigator",
   status: {
-    current: [
-      "learning react native",
-      "non-profit"
-    ],
-    past: "dish washer",
-    future: "full stack developer"
+    current: "non-profit",
+    future: "full stack developer",
+    past: "dish washer"
   },
   toolbox: {
     workspace: {
