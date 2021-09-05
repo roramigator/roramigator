@@ -5,7 +5,6 @@
 ```javascript
 const roberto = {
   tag: "roramigator",
-  skills: [ "front end", "back end", "dev ops" ],
   status: {
     current: [
       "learning react native",
